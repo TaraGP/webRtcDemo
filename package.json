@@ -1,0 +1,20 @@
+{
+ "type": "module",
+  "name": "webrtcdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Tara G P",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.4"
+  }
+}
